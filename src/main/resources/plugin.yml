@@ -1,0 +1,8 @@
+api: "1.21.1"
+name: DeathEventPlugin
+version: "1.0"
+main: com.DeathEventPlugin.DeathEventPlugin
+api-version: 1.18
+description: A plugin that sends a message to a Discord channel when a player dies and plays the spawn wither sound.
+author: ImJustLucas
+website: https://imjustlucas.dev
